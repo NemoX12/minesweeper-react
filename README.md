@@ -33,7 +33,7 @@ Enjoy the Minesweeper challenge and have fun strategizing to uncover the hidden 
 
 ## Usage
 
-[Play Minesweeper Now](link-to-live-app)
+[Play Minesweeper Now](https://fluffy-mermaid-cda5a1.netlify.app/)
 
 ### Or use locally
 
