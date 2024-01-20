@@ -1,0 +1,49 @@
+.top_bar-container {
+  display: flex;
+  align-items: center;
+  width: 360px;
+  justify-content: space-around;
+}
+
+.top_bar-status {
+  width: 60px;
+}
+
+.top_bar-container > button {
+  padding: 1em 2em;
+}
+
+.top_bar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+}
+
+.top_bar-container p {
+  margin: 0;
+}
+
+.button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+
+.status-container {
+  display: flex;
+  align-items: center;
+}
+
+.status {
+  margin-right: 10px;
+}

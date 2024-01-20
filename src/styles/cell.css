@@ -1,0 +1,20 @@
+.cell {
+  width: 35px;
+  height: 35px;
+  background: #d3d3d3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: 1px solid grey;
+  margin: 3px;
+}
+
+.revealed {
+  background: #ececec;
+}
+
+.bomb,
+.flag {
+  width: 20px;
+}
